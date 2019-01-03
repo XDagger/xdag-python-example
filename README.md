@@ -7,10 +7,10 @@ Currently there are three ways to integrate XDAG wallet.
 
 This example just demonstrate the first way.
 
-The main repo for XDAG: https://github.com/xdagger/xdag
-API Doc: https://explorer.xdag.io/api-docs
-Explorer: https://explorer.xdag.io 
-Getting Started: https://github.com/XDagger/xdag/wiki/Getting-started
+The main repo for XDAG: https://github.com/xdagger/xdag  
+API Doc: https://explorer.xdag.io/api-docs  
+Explorer: https://explorer.xdag.io  
+Getting Started: https://github.com/XDagger/xdag/wiki/Getting-started  
 
 How to setup testnet: 
 1. Build your binary version following https://github.com/XDagger/xdag/wiki/Getting-started
