@@ -33,3 +33,7 @@ If wanna launch two nodes.
 1. Launch your wallet by command `./xdag -t 127.0.0.1:8888` to connect to node `xdag1`. 
 1. For sure you can make many wallets as you want by make different folders and connect to `xdag1` node by using `127.0.0.1:8888` or `xdag2` node by using `127.0.0.1:8889`.
    
+   
+Hint:
+1. Currently `explorer.xdag.io` is only for main net. For your local testnet, you have to check the instructions on how to setup explorer.
+2. If have any problem, please join XDAG Community discord channel `https://discord.gg/YxXUVQJ`. Or contact me through XDAG Developers Chinese QQ Group `676955224`.
