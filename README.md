@@ -5,7 +5,7 @@ Currently there are three ways to integrate XDAG wallet.
 1. Maintain multi wallets by yourself program.
 1. Use decimal numbers to distingush different users.
 
-This example just demonstrate the first way.
+This example just demonstrates the first way.
 
 The main repo for XDAG: https://github.com/xdagger/xdag  
 API Doc: https://explorer.xdag.io/api-docs  
@@ -37,3 +37,4 @@ If wanna launch two nodes.
 Hint:
 1. Currently https://explorer.xdag.io is only for main net. For your local testnet, you have to check the instructions about how to setup explorer in repo https://github.com/XDagger/explorer.
 2. If have any problem, please join XDAG Community discord channel https://discord.gg/YxXUVQJ. Or contact me through XDAG Developers Chinese QQ Group `676955224`.
+3. This example is for Python3.
