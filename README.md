@@ -35,5 +35,5 @@ If wanna launch two nodes.
    
    
 Hint:
-1. Currently `explorer.xdag.io` is only for main net. For your local testnet, you have to check the instructions about how to setup explorer in repo `https://github.com/XDagger/explorer`.
-2. If have any problem, please join XDAG Community discord channel `https://discord.gg/YxXUVQJ`. Or contact me through XDAG Developers Chinese QQ Group `676955224`.
+1. Currently https://explorer.xdag.io is only for main net. For your local testnet, you have to check the instructions about how to setup explorer in repo https://github.com/XDagger/explorer.
+2. If have any problem, please join XDAG Community discord channel https://discord.gg/YxXUVQJ. Or contact me through XDAG Developers Chinese QQ Group `676955224`.
